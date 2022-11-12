@@ -134,4 +134,8 @@ footer {
     padding-right: 50px;
     margin-top: 41px;
   }
+
+  h2 {
+    margin-top: 0px;
+  }
 }
